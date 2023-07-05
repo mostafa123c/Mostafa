@@ -9,9 +9,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa123c&" alt="mostafa123c" /></p>
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=mostafa123c&theme=dark)](https://git.io/streak-stats)
     -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/mostafa123c">
     <img src="https://komarev.com/ghpvc/?username=mostafa123c&color=blue&style=flat)" />
   </a>
-</p>
+</p> -->
 
